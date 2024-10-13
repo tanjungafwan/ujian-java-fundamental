@@ -1,4 +1,4 @@
-package com.rizkiujianjf;
+package com.rizkiujianjf.test;
 
 import com.juaracoding.rizkiujianjf.ujian2.Atm;
 import org.testng.Assert;
